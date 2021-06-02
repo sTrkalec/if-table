@@ -1,0 +1,8 @@
+@import url(/css/bootstrap.min.css);
+
+td:hover{
+    background-color: rgba(26, 133, 97, 0.644);
+}
+#rec:hover{
+    background-color: rgba(206, 15, 15, 0.438);
+}
