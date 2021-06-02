@@ -3,7 +3,7 @@
 <p align="center">
  
  <img src="https://user-images.githubusercontent.com/57048555/120410615-b7d1fd80-c329-11eb-8fa0-f9ffd253a4d8.gif" alt="PRs welcome!" />
- 
+
 </p>
 
 
@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - BOOTSTRAP
-
+- CSS
 ---
 
 Feito com ♥ by Gabriel Miranda
