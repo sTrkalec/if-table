@@ -1,9 +1,9 @@
 ## IFB
 
 <p align="center">
- 
- <img src="![2021-06-01 21-20-42](https://user-images.githubusercontent.com/57048555/120406832-2d39d000-c322-11eb-8088-40e5c1ae8f27.gif)
-" alt="PRs welcome!" />
+
+   ![2021-06-01 21-20-42](https://user-images.githubusercontent.com/57048555/120409150-bf43d780-c326-11eb-9734-b40a7f7c3c00.gif)
+   
 </p>
 
 
